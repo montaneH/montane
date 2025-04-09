@@ -1,8 +1,8 @@
-# 最新cursor/chatGPT/Claude等会员，大陆付费订阅方式指南
+# 最新OpenAI API Key 以及cursor/chatGPT/Claude等会员，大陆付费订阅方式指南
 
 ## 本指南用途
 
-帮助大陆用户顺利完成 Cursor/ChatGPT/Claude Pro 等的会员订阅。
+帮助大陆用户顺利完成 Open AI API Key / Cursor/ChatGPT/Claude Pro 等的会员订阅。
 
 ---
 
@@ -35,13 +35,21 @@
 
 ---
 
-### 步骤三：购买cursor服务/或其他服务
+### 步骤三：购买cursor等服务
 
+#### cursor
 1. 打开 [Cursor 官网](https://www.cursor.sh/)。
 2. 登录github账号，进入设置页面，点击 **“Upgrade to Pro”**。
 3. 在支付页面选择 Credit Card。
 4. 填写 Wildcard野卡 提供的卡片信息并提交。
 5. 等待提示 “付款成功”，即完成升级。
+
+#### OpenAI API Key购买
+1. 打开 [Open AI API 购买官网](https://platform.openai.com/account/billing)。
+2. 登录ChatGPT或者OpenAI账号，点击绿色button **“Add Payment Details”**。
+3. 在支付页面选择 Credit Card。
+4. 填写 Wildcard野卡 提供的卡片信息并提交。
+5. 等待提示 “付款成功”，即完成购买。
 
 ---
 
