@@ -12,7 +12,7 @@
 
 由于 Cursor 不支持中国大陆支付方式，建议使用 Wildcard 虚拟卡进行付款。
 
-👉 [点击前往 Wildcard 注册页面（支持微信登录）](https://yeka.ai/i/HK5PVCNM)
+👉 [点击前往 Wildcard 注册页面（支持微信登录，亲测好用～）](https://yeka.ai/i/HK5PVCNM)
 
 - 注册快捷，无需实体卡。
 - 1 分钟内完成开户，充值即可使用。
